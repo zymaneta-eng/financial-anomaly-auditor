@@ -240,7 +240,13 @@ This project is licensed under the terms of the [MIT License](LICENSE).
 +------------------------------------------------------------------------------------+
 ```
 
-*(Visual UI screenshots and system workflow previews will be linked here from the `/screenshots` folder).*
+![документація API](screenshots/03_api_docs.png)
+
+![виклик API і відповідь](screenshots/03_api_call2_post-v1-transactions-audit.png)
+
+![підсумок тестів](screenshots/01_tests.png)
+
+Усі скріншоти (5): [screenshots/](screenshots/README.md)
 
 
 ---
